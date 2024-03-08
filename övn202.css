@@ -1,0 +1,26 @@
+body{
+        background-color: aqua;
+}
+*{
+border:solid black;
+}
+
+img{
+                width: 200px;
+                height: 200px;
+                opacity: 0.5;
+}
+
+
+img:hover{
+
+        opacity: 1.0;
+}
+
+p:hover{
+
+        background-color: rgb(7, 97, 97);
+        font-size: medium;
+        font-style: oblique;
+
+}
